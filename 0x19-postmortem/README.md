@@ -1,3 +1,6 @@
+
+![image](https://github.com/Duckity6210/alx-system_engineering-devops/assets/133124915/33767cab-ee02-4445-a743-ac52bed5f521)
+
 POWER OUTAGE IN MOST OF THE COUNTRY POSTMORTEM
 
 ISSUE SUMMARY
